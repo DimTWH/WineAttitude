@@ -189,8 +189,6 @@
 
         <!-- Page meta -->
         <div class="page-meta gg_vc_parallax ">
-
-            <div class="parallax-overlay" data-vc-kd-parallax="1.5" style="transform: translate3d(0px, 143.333px, 0px);"></div>
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
@@ -803,7 +801,7 @@
 
 
 <script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"name":"Home","@id":"https:\/\/okthemes.com\/templatekits\/villenoir"}},{"@type":"ListItem","position":2,"item":{"name":"Red wines","@id":"https:\/\/okthemes.com\/templatekits\/villenoir\/product-category\/red-wines\/"}},{"@type":"ListItem","position":3,"item":{"name":"Villenoir Aged Merlot","@id":"https:\/\/okthemes.com\/templatekits\/villenoir\/product\/villenoir-aged-merlot\/"}}]}</script>
-<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+{{-- <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="pswp__bg"></div>
     <div class="pswp__scroll-wrap">
         <div class="pswp__container">
@@ -836,7 +834,7 @@
             </div>
         </div>
     </div>
-</div>
+</div> --}}
 <script type="text/javascript">
     (function () {
         var c = document.body.className;

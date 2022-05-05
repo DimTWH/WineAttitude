@@ -22,6 +22,13 @@
 
     <!-- Tab icon -->
     <link rel="shortcut icon" type="image/png" href="{{  asset('pictures/icon1.png')  }}">
+
+    <!--light-slider.css------------->
+  <link rel="stylesheet" type="text/css" href="{{  asset('css/lightslider.css')  }}">
+  <!--Jquery-------------------->
+   <script type="text/javascript" src="{{  asset('js/Jquery.js')  }}"></script>
+   <!--lightslider.js--------------->
+   <script type="text/javascript" src="{{  asset('js/lightslider.js')  }}"></script>
 </head>
 
 <style>
@@ -384,10 +391,12 @@
                     <hr class="footer_border">
                         <ul>
                             <li class="facebook">
-                                <a href="https://www.facebook.com/WineAttitude.MolBel" target="_blank"><i class="fab fa-facebook"></i> WineAttitude.MolBel </a>
+                                <a href="https://www.facebook.com/WineAttitude.MolBel" target="_blank"><i class="fab fa-facebook"></i>
+                                    WineAttitude.MolBel </a>
                             </li>
                             <li class="instagram">
-                                <a href="https://www.instagram.com/wine_attitude_md_be/" target="_blank"><i class="fab fa-instagram"></i> wine.attitude.be</a>
+                                <a href="https://www.instagram.com/wine_attitude_md_be/" target="_blank"><i class="fab fa-instagram"></i>
+                                    wine_attitude_md_be</a>
                             </li>
                         </ul>
                     <br>
