@@ -1,13 +1,13 @@
 @extends('app', ['page' => __('Accueil')])
 
 @section('content')
-
+<meta name="google-site-verification" content="WfqaELtup9wIbQklGgKuiTEocMWz9Z97Vf0MSKe40y8" />
 <section class="pt-pb">
 
     <div>
         <div class="master-slider" id="masterslider">
             <div class="ms-slide slide-1" style="z-index: 10;">
-                <img src="images/wbg1.jpg" alt="">
+                <img src="pictures/h-banner-lupi.jpg" alt="">
 
                 <h3 class="ms-layer bold-title" style="left: 20px; top: 250px; color: #d9932f; font-weight: 400;"
                     data-effect="right(250)" data-duration="3500" data-delay="200" data-ease="easeOutExpo">
@@ -28,23 +28,23 @@
                     NOW</a>
             </div>
             <div class="ms-slide slide-2" style="z-index: 13;" data-delay="10">
-                <img src="images/wbg2.jpg" alt="">
+                <img src="pictures/h-banner-solnegru.jpg" alt="">
 
-                <h3 class="ms-layer bold-title" style="left: 20px; top: 250px; color: #d9932f; font-weight: 400;"
+                <h3 class="ms-layer bold-title" style="left: 20px; top: 250px; color: #815518; font-weight: 400;"
                     data-effect="right(250)" data-duration="3500" data-delay="200" data-ease="easeOutExpo">
                     New Wine Collection 2022</h3>
                 <h3 class="ms-layer light-title"
-                    style="left: 20px; top: 300px; color: #fff; font-weight: 900; letter-spacing: 1px;"
+                    style="left: 20px; top: 300px; color: #000; font-weight: 900; letter-spacing: 1px;"
                     data-effect="left(short)" data-duration="3500" data-delay="300" data-ease="easeOutExpo">
                     Wine
                 </h3>
                 <h1 class="ms-layer light-title"
-                    style="left: 20px; top: 350px; color: #fff; font-weight: 900; letter-spacing: 0.5px;"
+                    style="left: 20px; top: 350px; color: #000; font-weight: 900; letter-spacing: 0.5px;"
                     data-effect="left(short)" data-duration="3500" data-delay="350" data-ease="easeOutExpo">
                     Attitude
                 </h1>
                 <a href="#products" class="ms-layer"
-                   style="left: 20px; top: 424px; color: #fff; font-weight: 400; letter-spacing: 0.5px; margin: 0px ; padding: 0px; font-size: 14px; line-height: 20px; border: 1px solid #fff; padding: 10px 20px;"
+                   style="left: 20px; top: 424px; color: #000; font-weight: 400; letter-spacing: 0.5px; margin: 0px ; padding: 0px; font-size: 14px; line-height: 20px; border: 1px solid #fff; padding: 10px 20px;"
                    data-effect="left(short)" data-duration="3500" data-delay="300" data-ease="easeOutExpo">SHOP
                     NOW</a>
             </div>
@@ -60,22 +60,22 @@
         <div class="row no-gutter">
             <div class="col-lg-4 col-md-3 col-sm-4">
                 <p class="lineeffect">
-                    <a href="#">
-                        <img src="images/p2.jpg" class="img-responsive img-fill" alt="">
+                    <a href="{{ route('tewa-feteasca-neagra')}}">
+                        <img src="pictures/card-1-tewa.jpg" class="img-responsive img-fill" alt="See tewa-feteasca-neagra">
                     </a>
                 </p>
             </div>
             <div class="col-lg-4 col-md-3 col-sm-4">
                 <p class="lineeffect">
-                    <a href="#">
-                        <img src="images/p1.jpg" class="img-responsive img-fill" alt="">
+                    <a href="{{ route('kara-gani-ciotra')}}">
+                        <img src="pictures/card-2-ciotra.jpg" class="img-responsive img-fill" alt="See kara-gani-ciotra">
                     </a>
                 </p>
             </div>
             <div class="col-lg-4 col-md-3 col-sm-4">
                 <p class="lineeffect">
-                    <a href="#">
-                        <img src="images/p3.jpg" class="img-responsive img-fill" alt="">
+                    <a href="{{ route('asconi-sol-negru')}}">
+                        <img src="pictures/card-4-solnegru.jpg" class="img-responsive img-fill" alt="See aurore-rara-neagra">
                     </a>
                 </p>
             </div>
@@ -143,7 +143,9 @@
     <div class="container">
         <div class="row">
             <div class="dark-headingstyle-one text-center">
-                <h2 class="dart-heading" id="collection-banner">Nos Vins</h2>
+                <h2 class="dart-heading" id="collection-banner">
+                    Our Wines
+                </h2>
                 <img src="images/Icon-sep.png" alt="">
             </div>
         </div>
@@ -177,8 +179,10 @@
                                     <div class="product-main">
                                         <a href="{{ route("lupi") }}">
                                             <figure class="dark-theme">
-                                                <img src="pictures/cave/gitana/vin/lupi-nobg3.png" alt="" style="height: 100%">
-                                                <div class="ribbon"><span>Nouveau</span></div>
+                                                <img src="pictures/cave/gitana/vin/lupi-nobg.png" alt="">
+                                                <div class="ribbon"><span>
+                                                    Nouveau
+                                                </span></div>
                                                 {{--<span class="block-sticker-tag1">
                                                         <span class="off_tag"><strong><i
                                                                     class="fa fa-shopping-basket"></i></strong></span>
@@ -208,7 +212,9 @@
                                         <a href="{{ route('aurore-rara-neagra') }}">
                                             <figure class="dark-theme">
                                                 <img src="pictures/cave/fautor/vin/aurore-nobg.png" alt="">
-                                                <div class="ribbon"><span>Nouveau</span></div>
+                                                <div class="ribbon"><span>
+                                                    Nouveau
+                                                </span></div>
                                                 {{--<span class="block-sticker-tag1">
                                                         <span class="off_tag"><strong><i
                                                                     class="fa fa-shopping-basket"></i></strong></span>
@@ -236,7 +242,9 @@
                                         <a href="{{ route('tewa-feteasca-neagra') }}">
                                             <figure class="dark-theme">
                                                 <img src="{{ asset('pictures/cave/tewa/vin/tewa-raraneagra-nobg.png') }}" alt="">
-                                                <div class="ribbon"><span>Nouveau</span></div>
+                                                <div class="ribbon"><span>
+                                                    Nouveau
+                                                </span></div>
                                                 {{--<span class="block-sticker-tag1">
                                                         <span class="off_tag"><strong><i
                                                                     class="fa fa-shopping-basket"></i></strong></span>
@@ -264,7 +272,9 @@
                                         <a href="{{ route('kara-gani-ciotra') }}">
                                             <figure class="dark-theme">
                                                 <img src="{{ asset('pictures/cave/kara-gani/vin/ciotra-nobg.png') }}" alt="">
-                                                <div class="ribbon"><span>Nouveau</span></div>
+                                                <div class="ribbon"><span>
+                                                    Nouveau
+                                                </span></div>
                                                 {{--<span class="block-sticker-tag1">
                                                         <span class="off_tag"><strong><i
                                                                     class="fa fa-shopping-basket"></i></strong></span>
@@ -279,7 +289,7 @@
                                                     </span>
                                             </figure>
                                             <div class="block-caption1">
-                                                <h4>KARA GANI - Ciotra Feteasca Neagra</h4>
+                                                <h4>KARA GANI - Ciotra (Feteasca Neagra)</h4>
                                                 <div class="clear"></div>
                                                 {{--<div class="price">
                                                     <span class="sell-price">Rs. 26669</span>
@@ -289,10 +299,12 @@
                                         </a>
                                     </div>
                                     <div class="product-main">
-                                        <a href="{{ route('selection-feteasca-regala') }}">
+                                        <a href="{{ route('asconi-sol-negru') }}">
                                             <figure class="dark-theme">
-                                                <img src="{{ asset('pictures/cave/vinum-estate/vin/feteasca-regala-nobg.png') }}" alt="">
-                                                <div class="ribbon"><span>Nouveau</span></div>
+                                                <img src="{{ asset('pictures/cave/vinum-estate/vin/selection-nobg1.png') }}" alt="">
+                                                <div class="ribbon"><span>
+                                                    Nouveau
+                                                </span></div>
                                                 {{--<span class="block-sticker-tag1">
                                                         <span class="off_tag"><strong><i
                                                                     class="fa fa-shopping-basket"></i></strong></span>
@@ -307,7 +319,7 @@
                                                     </span>
                                             </figure>
                                             <div class="block-caption1">
-                                                <h4>VINUM ESTATE - Selection, Feteasca Regala</h4>
+                                                <h4>ASCONI - Sol Negru (Cabernet Sauvignon)</h4>
                                                 <div class="clear"></div>
                                                 {{--<div class="price">
                                                     <span class="sell-price">Rs. 26669</span>

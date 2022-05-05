@@ -29,7 +29,7 @@
 
     <link rel="stylesheet" id="villenoir-woocommerce-css" href="{{  asset('css/gg-woocommerce.css')  }}" type="text/css" media="all">
     <link rel="stylesheet" id="bootstrap-css" href="{{  asset('css/woocommerce.css')  }}" type="text/css" media="all">
-    <link rel="stylesheet" id="font-awesome-css" href="https://okthemes.com/villenoirdark/wp-content/themes/villenoir/assets/font-awesome/css/font-awesome.min.css?ver=5.8" type="text/css" media="all">
+
     <link rel="stylesheet" id="pace-css" href="https://okthemes.com/villenoirdark/wp-content/themes/villenoir/styles/site-loader.css?ver=5.8" type="text/css" media="all">
     <link rel="stylesheet" id="isotope-css" href="https://okthemes.com/villenoirdark/wp-content/themes/villenoir/styles/isotope.css?ver=5.8" type="text/css" media="all">
     <link rel="stylesheet" id="magnific-popup-css" href="https://okthemes.com/villenoirdark/wp-content/themes/villenoir/styles/magnific-popup.css?ver=5.8" type="text/css" media="all">
@@ -46,7 +46,7 @@
             padding: 100px 0 100px 0;
         }
         html.gg-theme-style-dark {
-            
+
         }
     </style>
     <link rel="stylesheet" id="villenoir-child-style-css" href="https://okthemes.com/villenoirdark/wp-content/themes/villenoir/style.css?ver=5.8" type="text/css" media="all">
@@ -93,14 +93,14 @@
     <script type="text/javascript" src="https://okthemes.com/villenoirdark/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=6.7.0" id="vc_woocommerce-add-to-cart-js-js"></script>
     <script type="text/javascript" src="https://okthemes.com/villenoirdark/wp-content/themes/villenoir/js/primary-navigation.js?ver=5.8.3" id="villenoir-navigation-js"></script>
     <script type="text/javascript" src="https://okthemes.com/villenoirdark/wp-content/themes/villenoir/js/jquery.waypoints.min.js?ver=5.8.3" id="waypoints-js"></script>
-    
+
 <script type="text/javascript">
     window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/okthemes.com\/villenoirdark\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.3"}};
     !function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
 </script>
 <script src="https://okthemes.com/villenoirdark/wp-includes/js/wp-emoji-release.min.js?ver=5.8.3" type="text/javascript" defer=""></script>
 
-    
+
     <meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
     <meta name="generator" content="Powered by Slider Revolution 6.5.9 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
     <script type="text/javascript">function setREVStartSize(e){
@@ -166,7 +166,7 @@
     .vc_custom_1636232479231{padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;background-image: url(https://okthemes.com/villenoirdark/wp-content/uploads/2016/03/product-img-1-dark.jpg?id=2888) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}
     </style>
     <noscript>
-        <style> 
+        <style>
             .wpb_animate_when_almost_visible { opacity: 1; }
         </style>
     </noscript>
@@ -179,10 +179,9 @@
 
 <div class="site-wrapper">
 
-    <head>    
+    <head>
         <link rel="stylesheet" href="{{  asset('Accueil-jQuery/bootstrap.css')  }}">
-        <link rel="stylesheet" href="{{  asset('Accueil-jQuery/font-awesome.min.css')  }}">
-        <link rel="stylesheet" href="{{  asset('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css')  }}">
+
         <link rel="stylesheet" href="{{  asset('Accueil-jQuery/owl.carousel.min.css')  }}">
         <link rel="stylesheet" href="{{  asset('Accueil-jQuery/owl.theme.default.min.css')  }}">
         <link rel="stylesheet" href="{{  asset('css/accueil.css')  }}">
@@ -228,22 +227,125 @@
                             <div class="col-md-6">
                                 <div class="woocommerce-product-gallery woocommerce-product-gallery--with-images woocommerce-product-gallery--columns-4 images" data-columns="4" style="opacity: 1; transition: opacity 0.25s ease-in-out 0s;">
                                     <figure class="woocommerce-product-gallery__wrapper">
-                                        <div data-thumb="{{  asset('pictures/cave/gitana/vin/lupi-nobg3.png')  }}" data-thumb-alt="" class="woocommerce-product-gallery__image">
-                                            <a href="{{  asset('pictures/cave/gitana/vin/lupi-nobg3.png')  }}">
-                                                <img src="{{  asset('pictures/cave/gitana/vin/lupi-nobg3.png')  }}" class="wp-post-image" alt="" loading="lazy" title="Gitana - Lupi"
-                                                     data-caption="" data-src="{{  asset('pictures/cave/gitana/vin/lupi-nobg3.png')  }}"
-                                                     data-large_image="{{  asset('pictures/cave/gitana/vin/lupi-nobg3.png')  }}"
+                                        <div data-thumb="{{  asset('pictures/cave/gitana/vin/lupi-1.jpg')  }}" data-thumb-alt="" class="woocommerce-product-gallery__image">
+                                            <a href="{{  asset('pictures/cave/gitana/vin/lupi-1.jpg')  }}">
+                                                <img src="{{  asset('pictures/cave/gitana/vin/lupi-1.jpg')  }}" class="zoomImg" alt="" loading="lazy" title="Gitana - Lupi"
+                                                     data-caption="" data-src="{{  asset('pictures/cave/gitana/vin/lupi-1.jpg')  }}"
+                                                     data-large_image="{{  asset('pictures/cave/gitana/vin/lupi-1.jpg')  }}"
                                                      data-large_image_width="1033" data-large_image_height="1335"
-                                                     srcset="{{  asset('pictures/cave/gitana/vin/lupi-nobg3.png')  }} 840w,
-                                                     {{  asset('pictures/cave/gitana/vin/lupi-nobg3.png')  }} 189w,
-                                                     {{  asset('pictures/cave/gitana/vin/lupi-nobg3.png')  }} 644w,
-                                                     {{  asset('pictures/cave/gitana/vin/lupi-nobg3.png')  }} 768w"
+                                                     srcset="{{  asset('pictures/cave/gitana/vin/lupi-1.jpg')  }} 840w,
+                                                     {{  asset('pictures/cave/gitana/vin/lupi-1.jpg')  }} 189w,
+                                                     {{  asset('pictures/cave/gitana/vin/lupi-1.jpg')  }} 644w,
+                                                     {{  asset('pictures/cave/gitana/vin/lupi-1.jpg')  }} 768w"
                                                      sizes="(max-width: 840px) 100vw, 840px" width="1033" height="1335">
+                                                <img role="presentation" alt="" src="{{  asset('pictures/cave/gitana/vin/lupi-1.jpg')  }}" id="zoom" class="" style="position: absolute;
+                                                top: -852.01px; left: -346.077px; opacity: 0; width: 1400px; height: 2585px; border: medium none; max-width: none; max-height: none;">
                                             </a>
                                         </div>
                                     </figure>
                                 </div>
                             </div><!-- .col-md-6 -->
+
+                            {{--<div class="relative overflow-hidden">
+                                <span class="font-semibold uppercase text-sm text-white inline-block py-1 px-2 leading-none absolute top-3  z-10 right-3 bg-orange">Sale</span>
+                                <div class="gallery mb-6">
+                                    <div class="swiper-container swiper-initialized swiper-horizontal swiper-pointer-events">
+                                        <div class="swiper-wrapper" id="swiper-wrapper-7c510a9b5901e8557" aria-live="polite" style="transform: translate3d(-1362px, 0px, 0px); transition-duration: 0ms;">
+                                            <div class="swiper-slide" style="width: 454px;" role="group" aria-label="1 / 5">
+                                                <img src="assets/images/single-product/lg/product1.webp" alt="product image">
+                                            </div>
+                                            <div class="swiper-slide" style="width: 454px;" role="group" aria-label="2 / 5">
+                                                <img src="assets/images/single-product/lg/product2.webp" alt="product image">
+                                            </div>
+                                            <div class="swiper-slide swiper-slide-prev" style="width: 454px;" role="group" aria-label="3 / 5">
+                                                <img src="assets/images/single-product/lg/product3.webp" alt="product image">
+                                            </div>
+                                            <div class="swiper-slide swiper-slide-active" style="width: 454px;" role="group" aria-label="4 / 5">
+                                                <img src="assets/images/single-product/lg/product4.webp" alt="product image">
+                                            </div>
+                                            <div class="swiper-slide swiper-slide-next" style="width: 454px;" role="group" aria-label="5 / 5">
+                                                <img src="assets/images/single-product/lg/product5.webp" alt="product image">
+                                            </div>
+                                        </div>
+                                        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+
+                                </div>
+
+                                <div class="gallery-nav relative">
+                                    <div class="swiper-container swiper-initialized swiper-horizontal swiper-pointer-events swiper-thumbs">
+                                        <div class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-693px, 0px, 0px);" id="swiper-wrapper-101035f1a4ebabccc6" aria-live="polite"><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev" data-swiper-slide-index="1" style="width: 107.5px; margin-right: 8px;" role="group" aria-label="2 / 5">
+                                                <a href="javascript:void(0)">
+                                                    <img src="assets/images/single-product/sm/product2.webp" alt="product image">
+                                                </a>
+                                            </div><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="2" style="width: 107.5px; margin-right: 8px;" role="group" aria-label="3 / 5">
+                                                <a href="javascript:void(0)">
+                                                    <img src="assets/images/single-product/sm/product3.webp" alt="product image">
+                                                </a>
+                                            </div><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next swiper-slide-thumb-active" data-swiper-slide-index="3" style="width: 107.5px; margin-right: 8px;" role="group" aria-label="4 / 5">
+                                                <a href="javascript:void(0)">
+                                                    <img src="assets/images/single-product/sm/product4.webp" alt="product image">
+                                                </a>
+                                            </div><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="4" style="width: 107.5px; margin-right: 8px;" role="group" aria-label="5 / 5">
+                                                <a href="javascript:void(0)">
+                                                    <img src="assets/images/single-product/sm/product5.webp" alt="product image">
+                                                </a>
+                                            </div>
+                                            <div class="swiper-slide" data-swiper-slide-index="0" style="width: 107.5px; margin-right: 8px;" role="group" aria-label="1 / 5">
+                                                <a href="javascript:void(0)">
+                                                    <img src="assets/images/single-product/sm/product1.webp" alt="product image">
+                                                </a>
+                                            </div>
+                                            <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="1" style="width: 107.5px; margin-right: 8px;" role="group" aria-label="2 / 5">
+                                                <a href="javascript:void(0)">
+                                                    <img src="assets/images/single-product/sm/product2.webp" alt="product image">
+                                                </a>
+                                            </div>
+                                            <div class="swiper-slide swiper-slide-visible swiper-slide-active" data-swiper-slide-index="2" style="width: 107.5px; margin-right: 8px;" role="group" aria-label="3 / 5">
+                                                <a href="javascript:void(0)">
+                                                    <img src="assets/images/single-product/sm/product3.webp" alt="product image">
+                                                </a>
+                                            </div>
+                                            <div class="swiper-slide swiper-slide-visible swiper-slide-next swiper-slide-thumb-active" data-swiper-slide-index="3" style="width: 107.5px; margin-right: 8px;" role="group" aria-label="4 / 5">
+                                                <a href="javascript:void(0)">
+                                                    <img src="assets/images/single-product/sm/product4.webp" alt="product image">
+                                                </a>
+                                            </div>
+                                            <div class="swiper-slide swiper-slide-visible" data-swiper-slide-index="4" style="width: 107.5px; margin-right: 8px;" role="group" aria-label="5 / 5">
+                                                <a href="javascript:void(0)">
+                                                    <img src="assets/images/single-product/sm/product5.webp" alt="product image">
+                                                </a>
+                                            </div>
+                                            <div class="swiper-slide swiper-slide-duplicate swiper-slide-visible" data-swiper-slide-index="0" style="width: 107.5px; margin-right: 8px;" role="group" aria-label="1 / 5">
+                                                <a href="javascript:void(0)">
+                                                    <img src="assets/images/single-product/sm/product1.webp" alt="product image">
+                                                </a>
+                                            </div><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev" data-swiper-slide-index="1" style="width: 107.5px; margin-right: 8px;" role="group" aria-label="2 / 5">
+                                                <a href="javascript:void(0)">
+                                                    <img src="assets/images/single-product/sm/product2.webp" alt="product image">
+                                                </a>
+                                            </div><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="2" style="width: 107.5px; margin-right: 8px;" role="group" aria-label="3 / 5">
+                                                <a href="javascript:void(0)">
+                                                    <img src="assets/images/single-product/sm/product3.webp" alt="product image">
+                                                </a>
+                                            </div><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next swiper-slide-thumb-active" data-swiper-slide-index="3" style="width: 107.5px; margin-right: 8px;" role="group" aria-label="4 / 5">
+                                                <a href="javascript:void(0)">
+                                                    <img src="assets/images/single-product/sm/product4.webp" alt="product image">
+                                                </a>
+                                            </div></div>
+                                        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                                    <!-- If we need pagination -->
+                                    <!-- <div class="swiper-pagination"></div> -->
+                                    <div class="swiper-buttons">
+                                        <div class="swiper-button-prev right-auto left-4  w-8 h-8 rounded-full  border border-solid border-gray-500 text-sm text-dark opacity-100 transition-all hover:text-orange hover:border-orange" tabindex="0" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-101035f1a4ebabccc6">
+                                            <i class="ion-chevron-left"></i>
+                                        </div>
+                                        <div class="swiper-button-next left-auto right-4  w-8 h-8 rounded-full  border border-solid border-gray-500 text-sm text-dark opacity-100 transition-all hover:text-orange hover:border-orange" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-101035f1a4ebabccc6">
+                                            <i class="ion-chevron-right"></i>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>--}}
 
                             <div class="col-md-6">
                                 <div class="summary entry-summary">
@@ -252,17 +354,20 @@
 
                                     <span class="year">2017</span>
 
-                                    <h1 class="product_title entry-title">Gitana Lupi</h1><div itemprop="description"><p>Served well-chilled our authentically made Cabernet Sauvignon is a refreshingly delicate dry wine with hints of strawberry, citrus, and peach laced fruit.</p>
+                                    <h1 class="product_title entry-title">Gitana Lupi</h1><div itemprop="description">
+                                        <p>
+                                            Lupi - the "savage" liberated from GITANA Winery, will definitely steal your heart to savor its complexity of black and red fruits, chocolate, spices and plum and blackcurrant jam. Lupi will leave you "alive" with a long and very delicious aftertaste
+                                        </p>
                                     </div>
                                     <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
 
                                         <p class="price">
-                                            <span class="price-text-prefix">
-                                                From 
-                                            </span>
+                                            {{-- <span class="price-text-prefix">
+                                                From
+                                            </span> --}}
                                             <span class="woocommerce-Price-amount amount">
                                                 <bdi>
-                                                    29,00&nbsp;
+                                                    28,80&nbsp;
                                                     <span class="woocommerce-Price-currencySymbol">
                                                         €
                                                     </span>
@@ -314,27 +419,27 @@
                                         <span class="posted_in">
                                             Categorie:
                                             <a href="" rel="tag">
-                                                Rood wijn
+                                                Red Wine
                                             </a>{{--https://okthemes.com/villenoirdark/product-category/red-wines/--}}
                                         </span>
                                         <span class="tagged_as">
                                             Tags:
                                             <a href="#" rel="off_tag">
-                                                gitana</a>,
+                                                GITANA</a>,
                                             <a href="#" rel="tag">
-                                                rood</a>
+                                                red</a>
                                         </span>
                                     </div>
 
 
                                     <table class="shop_attributes">
                                         <tbody><tr class="woocommerce-product-attributes-item">
-                                            <th class="woocommerce-product-attributes-item__label">Druivenras</th>
+                                            <th class="woocommerce-product-attributes-item__label">Grape</th>
                                             <td class=""><p>Cabernet Sauvignon, Merlot, Saperavi</p>
                                             </td>
                                         </tr>
                                         <tr class="woocommerce-product-attributes-item">
-                                            <th class="woocommerce-product-attributes-item__label">VINEYARDS</th>
+                                            <th class="woocommerce-product-attributes-item__label">Wine region</th>
                                             <td class="woocommerce-product-attributes-item__value"><p>Wijnbouwgebied Valul lui Traian, s. Romanovca, s. Filipeni</p>
                                             </td>
                                         </tr>
@@ -359,8 +464,8 @@
                                             </td>
                                         </tr>
                                         <tr class="woocommerce-product-attributes-item">
-                                            <th class="woocommerce-product-attributes-item__label">Verpakking</th>
-                                            <td class=""><p>Fles, Box(x6)</p>
+                                            <th class="woocommerce-product-attributes-item__label">Packaging</th>
+                                            <td class=""><p>Bottle, Box(x6)</p>
                                             </td>
                                         </tr>
                                         </tbody></table>
@@ -370,7 +475,7 @@
                                             <path fill="none" d="M9.634,10.633c0.116,0.113,0.265,0.168,0.414,0.168c0.153,0,0.308-0.06,0.422-0.177l4.015-4.111c0.229-0.235,0.225-0.608-0.009-0.836c-0.232-0.229-0.606-0.222-0.836,0.009l-3.604,3.689L6.35,5.772C6.115,5.543,5.744,5.55,5.514,5.781C5.285,6.015,5.29,6.39,5.522,6.617L9.634,10.633z"></path>
                                             <path fill="none" d="M17.737,9.815c-0.327,0-0.592,0.265-0.592,0.591v2.903H2.855v-2.903c0-0.327-0.264-0.591-0.591-0.591c-0.327,0-0.591,0.265-0.591,0.591V13.9c0,0.328,0.264,0.592,0.591,0.592h15.473c0.327,0,0.591-0.264,0.591-0.592v-3.494C18.328,10.08,18.064,9.815,17.737,9.815z"></path>
                                         </svg>
-                                        <span>Download de factsheet</span>
+                                        <span>Download the factsheet</span>
                                     </a>
 
 
@@ -384,19 +489,19 @@
                                 <div class="vc_column-inner vc_custom_1636230994456">
                                     <div class="wpb_wrapper">
                                         <div class="title-subtitle-box  " style=" text-align: left;">
-                                            <p style="">Wijninfo</p>
-                                            <h1 style=" font-style: normal;">Degustatie</h1>
+                                            <p style="">Wine Info</p>
+                                            <h1 style=" font-style: normal;">Degustation</h1>
                                         </div>
                                         <div class="wpb_text_column wpb_content_element  vc_custom_1460727890422">
                                             <div class="wpb_wrapper">
                                                 <p>
-                                                    <b style="color: #b0976d">Visueel:</b> intens robijnrood met paarse reflecties.
+                                                    <b style="color: #b0976d">Visual:</b> intense ruby red with purple reflections.
                                                 </p>
                                                    <p>
-                                                       <b style="color: #b0976d">Geur:</b> het bouquet is intens, rijk, met aroma's van bramen en fruit, waaraan schakeringen van chocolade, koffiebonen, zoet en Marokkaans hout zijn toegevoegd.
+                                                       <b style="color: #b0976d">Fragrance:</b> the bouquet is intense, rich, with aromas of blackberries and fruit, to which shades of chocolate, coffee beans, sweet and Moroccan wood have been added.
                                                    </p>
                                                 <p>
-                                                    <b style="color: #b0976d">Smaak:</b> evenwichtig, gestructureerd, met sterke tannines, intense en complexe smaak en een verfijnde, lange, pruimen- en bramenachtige afdronk
+                                                    <b style="color: #b0976d">Flavor:</b> balanced, structured, with strong tannins, intense and complex flavor and a refined, long, plum and blackberry finish.
                                                 </p>
                                             </div>
                                         </div>
@@ -428,13 +533,13 @@
                                 <div class="vc_column-inner vc_custom_1636231018665">
                                     <div class="wpb_wrapper">
                                         <div class="title-subtitle-box  " style=" text-align: left;">
-                                            <p style="">Wijninfo</p>
-                                            <h1 style=" font-style: normal;">Vinificatie</h1>
+                                            <p style="">Wine Info</p>
+                                            <h1 style=" font-style: normal;">Winemaking</h1>
                                         </div>
                                         <div class="wpb_text_column wpb_content_element ">
                                             <div class="wpb_wrapper">
                                                 <p>
-                                                    De druiven worden manueel geoogst, en de wijn wordt geproduceerd met klassieke wijnbereidingstechnieken en moderne, state-of-the-art apparatuur. De maceratie op Boston en de gisting vinden plaats gedurende 20 dagen in eikenhouten kuipen. De druiven worden manueel geoogst. Het vinificatieproces is een traditioneel proces, de maceratie op Boston gebeurt gedurende 20 dagen in eikenhouten kuipen. Tijdens de gisting wordt alles in het werk gesteld om de extractie van aroma's en kleurstoffen te optimaliseren. Nadat de alcoholische gisting is voltooid, ondergaat de wijn het rijpingsproces in grote eiken vaten uit Krasnodar, waar de malo-lactische gisting zal plaatsvinden. Het rijpingsproces wordt voortgezet in vaten van 225 liter gedurende een periode van 18 maanden.
+                                                    The grapes are harvested manually, and the wine is produced using classic winemaking techniques and modern, state-of-the-art equipment. Boston maceration and fermentation take place for 20 days in oak vats. The grapes are harvested manually. The vinification process is a traditional one, the maceration on Boston takes place for 20 days in oak vats. During fermentation, every effort is made to optimize the extraction of aromas and colorants. After the alcoholic fermentation is completed, the wine undergoes the aging process in large oak barrels from Krasnodar, where malo-lactic fermentation will take place. The aging process continues in 225-liter barrels for a period of 18 months.
                                                 </p>
 
                                             </div>
@@ -448,13 +553,13 @@
                                 <div class="vc_column-inner vc_custom_1636231052207">
                                     <div class="wpb_wrapper">
                                         <div class="title-subtitle-box  " style=" text-align: left;">
-                                            <p style="">Wijninfo</p>
-                                            <h1 style=" font-style: normal;">Culinair advies</h1>
+                                            <p style="">Wine Info</p>
+                                            <h1 style=" font-style: normal;">Culinar Advice</h1>
                                         </div>
                                         <div class="wpb_text_column wpb_content_element ">
                                             <div class="wpb_wrapper">
                                                 <p>
-                                                    Hij past bij gerookt vlees, gegrild vlees, champignons en andere gebakken groenten. Hij is perfect bij wild, rood vlees, gekruide gerechten en rijpe kazen.
+                                                    It goes well with smoked meats, grilled meats, mushrooms and other sautéed vegetables. It is perfect with game, red meat, spicy dishes and mature cheeses.
                                                 </p>
 
                                             </div>
@@ -537,11 +642,11 @@
                                                 Villenoir Cabernet Sauvignon
                                             </h2>
                                             <div class="gg-product-image-wrapper">
-                                                <img src="#" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" 
-                                                srcset="https://okthemes.com/villenoirdark/wp-content/uploads/2016/03/Red-Cabernet-Sauvignon-w-cup-v2-dark-1.png 840w, 
-                                                https://okthemes.com/villenoirdark/wp-content/uploads/2016/03/Red-Cabernet-Sauvignon-w-cup-v2-dark-1-189x300.png 189w, 
-                                                https://okthemes.com/villenoirdark/wp-content/uploads/2016/03/Red-Cabernet-Sauvignon-w-cup-v2-dark-1-644x1024.png 644w, 
-                                                https://okthemes.com/villenoirdark/wp-content/uploads/2016/03/Red-Cabernet-Sauvignon-w-cup-v2-dark-1-768x1221.png 768w" 
+                                                <img src="#" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy"
+                                                srcset="https://okthemes.com/villenoirdark/wp-content/uploads/2016/03/Red-Cabernet-Sauvignon-w-cup-v2-dark-1.png 840w,
+                                                https://okthemes.com/villenoirdark/wp-content/uploads/2016/03/Red-Cabernet-Sauvignon-w-cup-v2-dark-1-189x300.png 189w,
+                                                https://okthemes.com/villenoirdark/wp-content/uploads/2016/03/Red-Cabernet-Sauvignon-w-cup-v2-dark-1-644x1024.png 644w,
+                                                https://okthemes.com/villenoirdark/wp-content/uploads/2016/03/Red-Cabernet-Sauvignon-w-cup-v2-dark-1-768x1221.png 768w"
                                                 sizes="(max-width: 840px) 100vw, 840px" width="840" height="1335">
                                             </div>
                                         </a>
@@ -572,6 +677,7 @@
     </section>
 </div><!-- .site-wrapper -->
 
+{{--
 
 <script type="text/javascript">
     window.RS_MODULES = window.RS_MODULES || {};
@@ -596,9 +702,15 @@
     })();
 </script>
 <script type="text/template" id="tmpl-variation-template">
-{{--    <div class="woocommerce-variation-description">{{{ data.variation.variation_description }}}</div>--}}
-{{--    <div class="woocommerce-variation-price">{{{ data.variation.price_html }}}</div>--}}
-{{--    <div class="woocommerce-variation-availability">{{{ data.variation.availability_html }}}</div>--}}
+--}}
+{{--    <div class="woocommerce-variation-description">{{{ data.variation.variation_description }}}</div>--}}{{--
+
+--}}
+{{--    <div class="woocommerce-variation-price">{{{ data.variation.price_html }}}</div>--}}{{--
+
+--}}
+{{--    <div class="woocommerce-variation-availability">{{{ data.variation.availability_html }}}</div>--}}{{--
+
 </script>
 <script type="text/template" id="tmpl-unavailable-variation-template">
     <p>Sorry, this product is unavailable. Please choose a different combination.</p>
@@ -679,5 +791,114 @@
 </script>
 <script type="text/javascript" src="https://okthemes.com/villenoirdark/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=5.8.0" id="wc-add-to-cart-variation-js"></script>
 <script type="text/javascript" src="https://okthemes.com/villenoirdark/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.7.0" id="wpb_composer_front_js-js"></script>
+
+--}}
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"name":"Home","@id":"https:\/\/okthemes.com\/templatekits\/villenoir"}},{"@type":"ListItem","position":2,"item":{"name":"Red wines","@id":"https:\/\/okthemes.com\/templatekits\/villenoir\/product-category\/red-wines\/"}},{"@type":"ListItem","position":3,"item":{"name":"Villenoir Aged Merlot","@id":"https:\/\/okthemes.com\/templatekits\/villenoir\/product\/villenoir-aged-merlot\/"}}]}</script>
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="pswp__bg"></div>
+    <div class="pswp__scroll-wrap">
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+        <div class="pswp__ui pswp__ui--hidden">
+            <div class="pswp__top-bar">
+                <div class="pswp__counter"></div>
+                <button class="pswp__button pswp__button--close" aria-label="Close (Esc)"></button>
+                <button class="pswp__button pswp__button--share" aria-label="Share"></button>
+                <button class="pswp__button pswp__button--fs" aria-label="Toggle fullscreen"></button>
+                <button class="pswp__button pswp__button--zoom" aria-label="Zoom in/out"></button>
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+            <button class="pswp__button pswp__button--arrow--left" aria-label="Previous (arrow left)"></button>
+            <button class="pswp__button pswp__button--arrow--right" aria-label="Next (arrow right)"></button>
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    (function () {
+        var c = document.body.className;
+        c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+        document.body.className = c;
+    })();
+</script>
+<link rel="stylesheet" id="e-animations-css" href="https://okthemes.com/templatekits/villenoir/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.6.1" type="text/css" media="all">
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70" id="jquery-blockui-js"></script>
+<script type="text/javascript" id="wc-add-to-cart-js-extra">
+    /* <![CDATA[ */
+    var wc_add_to_cart_params = {"ajax_url":"\/templatekits\/villenoir\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/templatekits\/villenoir\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/okthemes.com\/templatekits\/villenoir\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+    /* ]]> */
+</script>
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=5.4.1" id="wc-add-to-cart-js"></script>
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/woocommerce/assets/js/zoom/jquery.zoom.min.js?ver=1.7.21" id="zoom-js"></script>
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/woocommerce/assets/js/flexslider/jquery.flexslider.min.js?ver=2.7.2" id="flexslider-js"></script>
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe.min.js?ver=4.1.1" id="photoswipe-js"></script>
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe-ui-default.min.js?ver=4.1.1" id="photoswipe-ui-default-js"></script>
+<script type="text/javascript" id="wc-single-product-js-extra">
+    /* <![CDATA[ */
+    var wc_single_product_params = {"i18n_required_rating_text":"Please select a rating","review_rating_required":"yes","flexslider":{"rtl":false,"animation":"slide","smoothHeight":true,"directionNav":false,"controlNav":"thumbnails","slideshow":false,"animationSpeed":500,"animationLoop":false,"allowOneSlide":false},"zoom_enabled":"1","zoom_options":[],"photoswipe_enabled":"1","photoswipe_options":{"shareEl":false,"closeOnScroll":false,"history":false,"hideAnimationDuration":0,"showAnimationDuration":0},"flexslider_enabled":"1"};
+    /* ]]> */
+</script>
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=5.4.1" id="wc-single-product-js"></script>
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4" id="js-cookie-js"></script>
+<script type="text/javascript" id="woocommerce-js-extra">
+    /* <![CDATA[ */
+    var woocommerce_params = {"ajax_url":"\/templatekits\/villenoir\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/templatekits\/villenoir\/?wc-ajax=%%endpoint%%"};
+    /* ]]> */
+</script>
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=5.4.1" id="woocommerce-js"></script>
+<script type="text/javascript" id="wc-cart-fragments-js-extra">
+    /* <![CDATA[ */
+    var wc_cart_fragments_params = {"ajax_url":"\/templatekits\/villenoir\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/templatekits\/villenoir\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_1d45836dad61190c825fa3a2b36c0857","fragment_name":"wc_fragments_1d45836dad61190c825fa3a2b36c0857","request_timeout":"5000"};
+    /* ]]> */
+</script>
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=5.4.1" id="wc-cart-fragments-js"></script>
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1" id="smartmenus-js"></script>
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.3.0" id="elementor-pro-webpack-runtime-js"></script>
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.6.1" id="elementor-webpack-runtime-js"></script>
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.6.1" id="elementor-frontend-modules-js"></script>
+<script type="text/javascript" id="elementor-pro-frontend-js-before">
+    var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/okthemes.com\/templatekits\/villenoir\/wp-admin\/admin-ajax.php","nonce":"592c08466d","urls":{"assets":"https:\/\/okthemes.com\/templatekits\/villenoir\/wp-content\/plugins\/elementor-pro\/assets\/"},"i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"menu_cart":{"cart_page_url":"https:\/\/okthemes.com\/templatekits\/villenoir\/cart\/","checkout_page_url":"https:\/\/okthemes.com\/templatekits\/villenoir\/checkout\/"},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/okthemes.com\/templatekits\/villenoir\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.3.0" id="elementor-pro-frontend-js"></script>
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" id="elementor-waypoints-js"></script>
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6" id="swiper-js"></script>
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.6.1" id="share-link-js"></script>
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.0" id="elementor-dialog-js"></script>
+<script type="text/javascript" id="elementor-frontend-js-before">
+    var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.6.1","is_static":false,"experimentalFeatures":{"e_import_export":true,"e_hidden_wordpress_widgets":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true,"form-submissions":true,"video-playlist":true},"urls":{"assets":"https:\/\/okthemes.com\/templatekits\/villenoir\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"body_background_background":"classic","global_image_lightbox":"yes","active_breakpoints":["viewport_mobile","viewport_tablet"],"lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":680,"title":"Villenoir%20Aged%20Merlot%20%E2%80%93%20Villenoir%20Template%20Kit","excerpt":"Served well-chilled our authentically made Cabernet Sauvignon is a refreshingly delicate dry wine with hints of strawberry, citrus, and peach laced fruit.","featuredImage":"https:\/\/okthemes.com\/templatekits\/villenoir\/wp-content\/uploads\/2016\/03\/Dark-blue-Merlot-w-cup-555x1024.png"}};
+</script>
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.6.1" id="elementor-frontend-js"></script><span id="elementor-device-mode" class="elementor-screen-only"></span>
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.min.js?ver=3.3.0" id="pro-preloaded-elements-handlers-js"></script>
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.6.1" id="preloaded-modules-js"></script><svg style="display: none;" class="e-font-icon-svg-symbols"></svg>
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.3.0" id="e-sticky-js"></script>
+
+
+
+
+<script src="{{  asset('js/appP.js')  }}"></script>
 
 @endsection
