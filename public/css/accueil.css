@@ -2202,9 +2202,7 @@ figure img {
 }
 
 .footer .footer-block li a::before {
-    content: "\f068";
     font-family: fontawesome;
-    margin-right: 10px;
     font-size: 7px;
     vertical-align: middle;
     color: #fff;

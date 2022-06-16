@@ -350,7 +350,7 @@
                     </ul>
                 </div>
             </div> --}}
-            <div class="section-footer col-md-3 col-sm-3">
+            <div class="section-footer col-md-3 col-sm-3" style="margin-bottom: 30px;">
                 <div class="footer-block about">
                     <h4 class="footer-title">Our Wines</h4>
                     <hr class="footer_border">
@@ -364,7 +364,7 @@
                     </ul>
                 </div>
             </div>
-            <div class="section-footer col-md-3 col-sm-3" id="contact">
+            <div class="section-footer col-md-3 col-sm-3" id="contact" style="margin-bottom: 30px;">
                 <div class="footer-block about">
                     <h4 class="footer-title">Contact us</h4>
                     <hr class="footer_border">
@@ -387,7 +387,7 @@
             </div>
             <div class="section-footer col-md-3 col-sm-3">
                 <div class="footer-block about">
-                    <h4 class="footer-title">More about us</h4>
+                    <h4 class="footer-title">More about us !</h4>
                     <hr class="footer_border">
                         <ul>
                             <li class="facebook">
