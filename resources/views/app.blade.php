@@ -372,7 +372,7 @@
                         <!--<li><i class="fa fa-paper-plane"></i>Bengaluru, Karnataka</li>-->
                         <li>
                             <a href="mailto:mywine.attitude@gmail.com">
-                                <i class="fa fa-envelope"></i>
+                                <i class="fa fa-envelope" style="line-height: 30px;"></i>
                                  mywine.attitude@gmail.com
                             </a>
                         </li>
