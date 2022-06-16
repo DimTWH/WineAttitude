@@ -22,6 +22,13 @@
 
     <!-- Tab icon -->
     <link rel="shortcut icon" type="image/png" href="{{  asset('pictures/icon1.png')  }}">
+
+    <!--light-slider.css------------->
+  <link rel="stylesheet" type="text/css" href="{{  asset('css/lightslider.css')  }}">
+  <!--Jquery-------------------->
+   <script type="text/javascript" src="{{  asset('js/Jquery.js')  }}"></script>
+   <!--lightslider.js--------------->
+   <script type="text/javascript" src="{{  asset('js/lightslider.js')  }}"></script>
 </head>
 
 <style>
@@ -365,7 +372,7 @@
                         <!--<li><i class="fa fa-paper-plane"></i>Bengaluru, Karnataka</li>-->
                         <li>
                             <a href="mailto:mywine.attitude@gmail.com">
-                                <i class="fa fa-envelope"></i>
+                                <i class="fa fa-envelope" style="line-height: 30px;"></i>
                                  mywine.attitude@gmail.com
                             </a>
                         </li>
