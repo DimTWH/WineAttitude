@@ -18,6 +18,6 @@ class Wine extends Model
      */
 
     protected $fillable = [
-        'color', 'type' , 'name', 'grape', 'winery', 'alcohol', 'date_of_production', 'date_of_bottling', 'Status'
+        'color', 'type' , 'name', 'cepage', 'winery', 'alcohol' , 'Enregistré_par', 'date_of_production', 'date_of_bottling', 'Statut'
     ];
 }
