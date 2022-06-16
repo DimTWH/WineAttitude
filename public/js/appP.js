@@ -41,3 +41,9 @@ const navSlide = () => {
 }
 
 navSlide();
+
+
+let zoom = document.getElementById('zoom');
+zoom.addEventListener('click', event => {
+    zoom.classList.add('zoomImg');
+});

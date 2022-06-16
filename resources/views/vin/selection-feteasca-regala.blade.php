@@ -29,7 +29,7 @@
 
     <link rel="stylesheet" id="villenoir-woocommerce-css" href="{{  asset('css/gg-woocommerce.css')  }}" type="text/css" media="all">
     <link rel="stylesheet" id="bootstrap-css" href="{{  asset('css/woocommerce.css')  }}" type="text/css" media="all">
-    <link rel="stylesheet" id="font-awesome-css" href="https://okthemes.com/villenoirdark/wp-content/themes/villenoir/assets/font-awesome/css/font-awesome.min.css?ver=5.8" type="text/css" media="all">
+
     <link rel="stylesheet" id="pace-css" href="https://okthemes.com/villenoirdark/wp-content/themes/villenoir/styles/site-loader.css?ver=5.8" type="text/css" media="all">
     <link rel="stylesheet" id="isotope-css" href="https://okthemes.com/villenoirdark/wp-content/themes/villenoir/styles/isotope.css?ver=5.8" type="text/css" media="all">
     <link rel="stylesheet" id="magnific-popup-css" href="https://okthemes.com/villenoirdark/wp-content/themes/villenoir/styles/magnific-popup.css?ver=5.8" type="text/css" media="all">
@@ -46,7 +46,7 @@
             padding: 100px 0 100px 0;
         }
         html.gg-theme-style-dark {
-            
+
         }
     </style>
     <link rel="stylesheet" id="villenoir-child-style-css" href="https://okthemes.com/villenoirdark/wp-content/themes/villenoir/style.css?ver=5.8" type="text/css" media="all">
@@ -93,14 +93,14 @@
     <script type="text/javascript" src="https://okthemes.com/villenoirdark/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=6.7.0" id="vc_woocommerce-add-to-cart-js-js"></script>
     <script type="text/javascript" src="https://okthemes.com/villenoirdark/wp-content/themes/villenoir/js/primary-navigation.js?ver=5.8.3" id="villenoir-navigation-js"></script>
     <script type="text/javascript" src="https://okthemes.com/villenoirdark/wp-content/themes/villenoir/js/jquery.waypoints.min.js?ver=5.8.3" id="waypoints-js"></script>
-    
+
 <script type="text/javascript">
     window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/okthemes.com\/villenoirdark\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.3"}};
     !function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
 </script>
 <script src="https://okthemes.com/villenoirdark/wp-includes/js/wp-emoji-release.min.js?ver=5.8.3" type="text/javascript" defer=""></script>
 
-    
+
     <meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
     <meta name="generator" content="Powered by Slider Revolution 6.5.9 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
     <script type="text/javascript">function setREVStartSize(e){
@@ -166,7 +166,7 @@
     .vc_custom_1636232479231{padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;background-image: url(https://okthemes.com/villenoirdark/wp-content/uploads/2016/03/product-img-1-dark.jpg?id=2888) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}
     </style>
     <noscript>
-        <style> 
+        <style>
             .wpb_animate_when_almost_visible { opacity: 1; }
         </style>
     </noscript>
@@ -179,10 +179,9 @@
 
 <div class="site-wrapper">
 
-    <head>    
+    <head>
         <link rel="stylesheet" href="{{  asset('Accueil-jQuery/bootstrap.css')  }}">
-        <link rel="stylesheet" href="{{  asset('Accueil-jQuery/font-awesome.min.css')  }}">
-        <link rel="stylesheet" href="{{  asset('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css')  }}">
+
         <link rel="stylesheet" href="{{  asset('Accueil-jQuery/owl.carousel.min.css')  }}">
         <link rel="stylesheet" href="{{  asset('Accueil-jQuery/owl.theme.default.min.css')  }}">
         <link rel="stylesheet" href="{{  asset('css/accueil.css')  }}">
@@ -227,17 +226,19 @@
                             <div class="col-md-6">
                                 <div class="woocommerce-product-gallery woocommerce-product-gallery--with-images woocommerce-product-gallery--columns-4 images" data-columns="4" style="opacity: 1; transition: opacity 0.25s ease-in-out 0s;">
                                     <figure class="woocommerce-product-gallery__wrapper">
-                                        <div data-thumb="{{  asset('pictures/cave/vinum-estate/vin/feteasca-regala-nobg.png')  }}" data-thumb-alt="" class="woocommerce-product-gallery__image">
-                                            <a href="{{  asset('pictures/cave/vinum-estate/vin/feteasca-regala-nobg.png')  }}">
-                                                <img src="{{  asset('pictures/cave/vinum-estate/vin/feteasca-regala-nobg.png')  }}" class="wp-post-image" alt="" loading="lazy" title="Gitana - Lupi"
-                                                     data-caption="" data-src="{{  asset('pictures/cave/vinum-estate/vin/feteasca-regala-nobg.png')  }}"
-                                                     data-large_image="{{  asset('pictures/cave/vinum-estate/vin/feteasca-regala-nobg.png')  }}"
+                                        <div data-thumb="{{  asset('pictures/cave/vinum-estate/vin/selection.png')  }}" data-thumb-alt="" class="woocommerce-product-gallery__image">
+                                            <a href="{{  asset('pictures/cave/vinum-estate/vin/selection.png')  }}">
+                                                <img src="{{  asset('pictures/cave/vinum-estate/vin/selection.png')  }}" class="wp-post-image" alt="" loading="lazy" title="Gitana - Lupi"
+                                                     data-caption="" data-src="{{  asset('pictures/cave/vinum-estate/vin/selection.png')  }}"
+                                                     data-large_image="{{  asset('pictures/cave/vinum-estate/vin/selection.png')  }}"
                                                      data-large_image_width="1033" data-large_image_height="1335"
-                                                     srcset="{{  asset('pictures/cave/vinum-estate/vin/feteasca-regala-nobg.png')  }} 840w,
-                                                     {{  asset('pictures/cave/vinum-estate/vin/feteasca-regala-nobg.png')  }} 189w,
-                                                     {{  asset('pictures/cave/vinum-estate/vin/feteasca-regala-nobg.png')  }} 644w,
-                                                     {{  asset('pictures/cave/vinum-estate/vin/feteasca-regala-nobg.png')  }} 768w"
+                                                     srcset="{{  asset('pictures/cave/vinum-estate/vin/selection.png')  }} 840w,
+                                                     {{  asset('pictures/cave/vinum-estate/vin/selection.png')  }} 189w,
+                                                     {{  asset('pictures/cave/vinum-estate/vin/selection.png')  }} 644w,
+                                                     {{  asset('pictures/cave/vinum-estate/vin/selection.png')  }} 768w"
                                                      sizes="(max-width: 840px) 100vw, 840px" width="1033" height="1335">
+                                                     <img role="presentation" alt="" src="{{  asset('pictures/cave/tewa/vin/selection.png')  }}" id="zoom" class="" style="position: absolute;
+                                                    top: -852.01px; left: -346.077px; opacity: 0; width: 1400px; height: 2585px; border: medium none; max-width: none; max-height: none;">
                                             </a>
                                         </div>
                                     </figure>
@@ -249,7 +250,7 @@
 
 
 
-                                    <span class="year"> 2019</span>
+                                    <span class="year"> 2020</span>
 
                                     <h1 class="product_title entry-title">Vinum Estate Selection Feteasca Regala</h1><div itemprop="description">
                                         <p>
@@ -259,7 +260,7 @@
                                     <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
 
                                         <p class="price">
-                                            <span class="price-text-prefix">From </span>
+                                            {{-- <span class="price-text-prefix">From </span> --}}
                                             <span class="woocommerce-Price-amount amount">
                                                 <bdi>
                                                     19,90&nbsp;
@@ -314,15 +315,15 @@
                                         <span class="posted_in">
                                             Categorie:
                                             <a href="" rel="tag">
-                                                Rood wijn
+                                                White Wine
                                             </a>{{--https://okthemes.com/villenoirdark/product-category/red-wines/--}}
                                         </span>
                                         <span class="tagged_as">
                                             Tags:
                                             <a href="#" rel="off_tag">
-                                                vinum estate</a>,
+                                                VINUM ESTATE</a>,
                                             <a href="#" rel="tag">
-                                                wit</a>
+                                                white</a>
                                         </span>
                                     </div>
 
@@ -330,14 +331,14 @@
                                     <table class="shop_attributes">
                                         <tbody><tr class="woocommerce-product-attributes-item">
                                             <th class="woocommerce-product-attributes-item__label">
-                                                Druivenras</th>
+                                                Grape</th>
                                             <td class="">
                                                 <p>Feteasca Regala</p>
                                             </td>
                                         </tr>
                                         <tr class="woocommerce-product-attributes-item">
                                             <th class="woocommerce-product-attributes-item__label">
-                                                VINEYARDS</th>
+                                                Wine region</th>
                                             <td class="woocommerce-product-attributes-item__value">
                                                 <p>Valul lui Traian</p>
                                             </td>
@@ -346,14 +347,14 @@
                                             <th class="woocommerce-product-attributes-item__label">
                                                 VINTAGE</th>
                                             <td class="woocommerce-product-attributes-item__value">
-                                                <p>2019</p>
+                                                <p>2020</p>
                                             </td>
                                         </tr>
                                         <tr class="woocommerce-product-attributes-item">
                                             <th class="woocommerce-product-attributes-item__label">
                                                 Type</th>
                                             <td class="woocommerce-product-attributes-item__value">
-                                                <p>Wit, droog</p>
+                                                <p>dry, white</p>
                                             </td>
                                         </tr>
                                         <tr class="woocommerce-product-attributes-item">
@@ -371,9 +372,9 @@
                                         </tr>
                                         <tr class="woocommerce-product-attributes-item">
                                             <th class="woocommerce-product-attributes-item__label">
-                                                Verpakking</th>
+                                                Packaging</th>
                                             <td class="">
-                                                <p>Fles, Box(x6)</p>
+                                                <p>Bottle, Box(x6)</p>
                                             </td>
                                         </tr>
                                         </tbody></table>
@@ -397,13 +398,13 @@
                                 <div class="vc_column-inner vc_custom_1636230994456">
                                     <div class="wpb_wrapper">
                                         <div class="title-subtitle-box  " style=" text-align: left;">
-                                            <p style="">Wijninfo</p>
-                                            <h1 style=" font-style: normal;">Degustatie</h1>
+                                            <p style="">Wine Info</p>
+                                            <h1 style=" font-style: normal;">Degustation</h1>
                                         </div>
                                         <div class="wpb_text_column wpb_content_element  vc_custom_1460727890422">
                                             <div class="wpb_wrapper">
                                                 <p>
-                                                    Matig - sterk aroma van tropisch fruit, kruidig en weidekruiden, limoentonen. De smaak is fris, iets te zoet, met een gemiddelde zuurgraad en een lichte noot van bitterheid in de afdronk.
+                                                    Moderate - strong aroma of tropical fruits, spicy and meadow herbs, lime notes. The taste is fresh, slightly too sweet, with medium acidity and a slight note of bitterness in the finish.
                                                 </p>
                                             </div>
                                         </div>
@@ -435,13 +436,13 @@
                                 <div class="vc_column-inner vc_custom_1636231018665">
                                     <div class="wpb_wrapper">
                                         <div class="title-subtitle-box  " style=" text-align: left;">
-                                            <p style="">Wijninfo</p>
-                                            <h1 style=" font-style: normal;">Vinificatie</h1>
+                                            <p style="">Wine Info</p>
+                                            <h1 style=" font-style: normal;">Winemaking</h1>
                                         </div>
                                         <div class="wpb_text_column wpb_content_element ">
                                             <div class="wpb_wrapper">
                                                 <p>
-                                                    Fijne geur van kruidnagel, zure kersen, granaatappel en pruimen. In de mond rijpe kersen en specerijen. Een complexe en volle wijn met een goede lengte
+                                                    Fine aroma of clove, sour cherry, pomegranate and plum. On the palate ripe cherries and spice. A complex and full wine with a good length.
                                                 </p>
 
                                             </div>
@@ -455,12 +456,13 @@
                                 <div class="vc_column-inner vc_custom_1636231052207">
                                     <div class="wpb_wrapper">
                                         <div class="title-subtitle-box  " style=" text-align: left;">
-                                            <p style="">Wijninfo</p>
-                                            <h1 style=" font-style: normal;">Culinair advies</h1>
+                                            <p style="">Wine Info</p>
+                                            <h1 style=" font-style: normal;">Culinar advice</h1>
                                         </div>
                                         <div class="wpb_text_column wpb_content_element ">
                                             <div class="wpb_wrapper">
-                                                <p>De frisheid van de wijn wekt de eetlust op. Aanbevolen met verse kaas, salades, zeevruchtenschotels, vis of wit vlees.
+                                                <p>
+                                                    The freshness of the wine whets the appetite. Recommended with fresh cheese, salads, seafood dishes, fish or white meat.
                                                 </p>
 
                                             </div>
@@ -543,11 +545,11 @@
                                                 Villenoir Cabernet Sauvignon
                                             </h2>
                                             <div class="gg-product-image-wrapper">
-                                                <img src="#" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" 
-                                                srcset="https://okthemes.com/villenoirdark/wp-content/uploads/2016/03/Red-Cabernet-Sauvignon-w-cup-v2-dark-1.png 840w, 
-                                                https://okthemes.com/villenoirdark/wp-content/uploads/2016/03/Red-Cabernet-Sauvignon-w-cup-v2-dark-1-189x300.png 189w, 
-                                                https://okthemes.com/villenoirdark/wp-content/uploads/2016/03/Red-Cabernet-Sauvignon-w-cup-v2-dark-1-644x1024.png 644w, 
-                                                https://okthemes.com/villenoirdark/wp-content/uploads/2016/03/Red-Cabernet-Sauvignon-w-cup-v2-dark-1-768x1221.png 768w" 
+                                                <img src="#" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy"
+                                                srcset="https://okthemes.com/villenoirdark/wp-content/uploads/2016/03/Red-Cabernet-Sauvignon-w-cup-v2-dark-1.png 840w,
+                                                https://okthemes.com/villenoirdark/wp-content/uploads/2016/03/Red-Cabernet-Sauvignon-w-cup-v2-dark-1-189x300.png 189w,
+                                                https://okthemes.com/villenoirdark/wp-content/uploads/2016/03/Red-Cabernet-Sauvignon-w-cup-v2-dark-1-644x1024.png 644w,
+                                                https://okthemes.com/villenoirdark/wp-content/uploads/2016/03/Red-Cabernet-Sauvignon-w-cup-v2-dark-1-768x1221.png 768w"
                                                 sizes="(max-width: 840px) 100vw, 840px" width="840" height="1335">
                                             </div>
                                         </a>
@@ -578,22 +580,41 @@
     </section>
 </div><!-- .site-wrapper -->
 
-
-<script type="text/javascript">
-    window.RS_MODULES = window.RS_MODULES || {};
-    window.RS_MODULES.modules = window.RS_MODULES.modules || {};
-    window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
-    window.RS_MODULES.defered = false;
-    window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
-    window.RS_MODULES.type = 'compiled';
-</script>
-<script>
-    ( function ( body ) {
-        'use strict';
-        body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
-    } )( document.body );
-</script>
-<!-- Instagram Feed JS -->
+<script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"name":"Home","@id":"https:\/\/okthemes.com\/templatekits\/villenoir"}},{"@type":"ListItem","position":2,"item":{"name":"Red wines","@id":"https:\/\/okthemes.com\/templatekits\/villenoir\/product-category\/red-wines\/"}},{"@type":"ListItem","position":3,"item":{"name":"Villenoir Aged Merlot","@id":"https:\/\/okthemes.com\/templatekits\/villenoir\/product\/villenoir-aged-merlot\/"}}]}</script>
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="pswp__bg"></div>
+    <div class="pswp__scroll-wrap">
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+        <div class="pswp__ui pswp__ui--hidden">
+            <div class="pswp__top-bar">
+                <div class="pswp__counter"></div>
+                <button class="pswp__button pswp__button--close" aria-label="Close (Esc)"></button>
+                <button class="pswp__button pswp__button--share" aria-label="Share"></button>
+                <button class="pswp__button pswp__button--fs" aria-label="Toggle fullscreen"></button>
+                <button class="pswp__button pswp__button--zoom" aria-label="Zoom in/out"></button>
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+            <button class="pswp__button pswp__button--arrow--left" aria-label="Previous (arrow left)"></button>
+            <button class="pswp__button pswp__button--arrow--right" aria-label="Next (arrow right)"></button>
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+        </div>
+    </div>
+</div>
 <script type="text/javascript">
     (function () {
         var c = document.body.className;
@@ -601,89 +622,61 @@
         document.body.className = c;
     })();
 </script>
-<script type="text/template" id="tmpl-variation-template">
-{{--    <div class="woocommerce-variation-description">{{{ data.variation.variation_description }}}</div>--}}
-{{--    <div class="woocommerce-variation-price">{{{ data.variation.price_html }}}</div>--}}
-{{--    <div class="woocommerce-variation-availability">{{{ data.variation.availability_html }}}</div>--}}
-</script>
-<script type="text/template" id="tmpl-unavailable-variation-template">
-    <p>Sorry, this product is unavailable. Please choose a different combination.</p>
-</script>
-<link rel="stylesheet" id="rs-plugin-settings-css" href="https://okthemes.com/villenoirdark/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.5.9" type="text/css" media="all">
-<style id="rs-plugin-settings-inline-css" type="text/css">
-    #rs-demo-id {}
-</style>
-<script type="text/javascript" src="https://okthemes.com/villenoirdark/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7" id="regenerator-runtime-js"></script>
-<script type="text/javascript" src="https://okthemes.com/villenoirdark/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
-<script type="text/javascript" id="contact-form-7-js-extra">
+<link rel="stylesheet" id="e-animations-css" href="https://okthemes.com/templatekits/villenoir/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.6.1" type="text/css" media="all">
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70" id="jquery-blockui-js"></script>
+<script type="text/javascript" id="wc-add-to-cart-js-extra">
     /* <![CDATA[ */
-    var wpcf7 = {"api":{"root":"https:\/\/okthemes.com\/villenoirdark\/wp-json\/","namespace":"contact-form-7\/v1"}};
+    var wc_add_to_cart_params = {"ajax_url":"\/templatekits\/villenoir\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/templatekits\/villenoir\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/okthemes.com\/templatekits\/villenoir\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
     /* ]]> */
 </script>
-<script type="text/javascript" src="https://okthemes.com/villenoirdark/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.1" id="contact-form-7-js"></script>
-<script type="text/javascript" src="https://okthemes.com/villenoirdark/wp-content/plugins/js_composer/assets/lib/flexslider/jquery.flexslider.min.js?ver=6.7.0" id="flexslider-js"></script>
-<script type="text/javascript" src="https://okthemes.com/villenoirdark/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe.min.js?ver=4.1.1-wc.5.8.0" id="photoswipe-js"></script>
-<script type="text/javascript" src="https://okthemes.com/villenoirdark/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe-ui-default.min.js?ver=4.1.1-wc.5.8.0" id="photoswipe-ui-default-js"></script>
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=5.4.1" id="wc-add-to-cart-js"></script>
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/woocommerce/assets/js/zoom/jquery.zoom.min.js?ver=1.7.21" id="zoom-js"></script>
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/woocommerce/assets/js/flexslider/jquery.flexslider.min.js?ver=2.7.2" id="flexslider-js"></script>
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe.min.js?ver=4.1.1" id="photoswipe-js"></script>
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe-ui-default.min.js?ver=4.1.1" id="photoswipe-ui-default-js"></script>
 <script type="text/javascript" id="wc-single-product-js-extra">
     /* <![CDATA[ */
-    var wc_single_product_params = {"i18n_required_rating_text":"Please select a rating","review_rating_required":"yes","flexslider":{"rtl":false,"animation":"slide","smoothHeight":true,"directionNav":false,"controlNav":"thumbnails","slideshow":false,"animationSpeed":500,"animationLoop":false,"allowOneSlide":false},"zoom_enabled":"","zoom_options":[],"photoswipe_enabled":"1","photoswipe_options":{"shareEl":false,"closeOnScroll":false,"history":false,"hideAnimationDuration":0,"showAnimationDuration":0},"flexslider_enabled":"1"};
+    var wc_single_product_params = {"i18n_required_rating_text":"Please select a rating","review_rating_required":"yes","flexslider":{"rtl":false,"animation":"slide","smoothHeight":true,"directionNav":false,"controlNav":"thumbnails","slideshow":false,"animationSpeed":500,"animationLoop":false,"allowOneSlide":false},"zoom_enabled":"1","zoom_options":[],"photoswipe_enabled":"1","photoswipe_options":{"shareEl":false,"closeOnScroll":false,"history":false,"hideAnimationDuration":0,"showAnimationDuration":0},"flexslider_enabled":"1"};
     /* ]]> */
 </script>
-<script type="text/javascript" src="https://okthemes.com/villenoirdark/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=5.8.0" id="wc-single-product-js"></script>
-<script type="text/javascript" src="https://okthemes.com/villenoirdark/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.5.8.0" id="js-cookie-js"></script>
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=5.4.1" id="wc-single-product-js"></script>
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4" id="js-cookie-js"></script>
 <script type="text/javascript" id="woocommerce-js-extra">
     /* <![CDATA[ */
-    var woocommerce_params = {"ajax_url":"\/villenoirdark\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/villenoirdark\/?wc-ajax=%%endpoint%%"};
+    var woocommerce_params = {"ajax_url":"\/templatekits\/villenoir\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/templatekits\/villenoir\/?wc-ajax=%%endpoint%%"};
     /* ]]> */
 </script>
-<script type="text/javascript" src="https://okthemes.com/villenoirdark/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=5.8.0" id="woocommerce-js"></script>
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=5.4.1" id="woocommerce-js"></script>
 <script type="text/javascript" id="wc-cart-fragments-js-extra">
     /* <![CDATA[ */
-    var wc_cart_fragments_params = {"ajax_url":"\/villenoirdark\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/villenoirdark\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_88224fea8f42f9ac7eaff52ce3d6e8b6","fragment_name":"wc_fragments_88224fea8f42f9ac7eaff52ce3d6e8b6","request_timeout":"5000"};
+    var wc_cart_fragments_params = {"ajax_url":"\/templatekits\/villenoir\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/templatekits\/villenoir\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_1d45836dad61190c825fa3a2b36c0857","fragment_name":"wc_fragments_1d45836dad61190c825fa3a2b36c0857","request_timeout":"5000"};
     /* ]]> */
 </script>
-<script type="text/javascript" src="https://okthemes.com/villenoirdark/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=5.8.0" id="wc-cart-fragments-js"></script>
-<script type="text/javascript" src="https://okthemes.com/villenoirdark/wp-content/themes/villenoir/js/perfect-scrollbar.jquery.min.js?ver=5.8" id="perfect-scrollbar-js"></script>
-<script type="text/javascript" src="https://okthemes.com/villenoirdark/wp-content/themes/villenoir/js/gsap.min.js?ver=5.8" id="gsap-js"></script>
-<script type="text/javascript" src="https://okthemes.com/villenoirdark/wp-content/themes/villenoir/js/bezier-easing.js?ver=5.8" id="bezier-easing-js"></script>
-<script type="text/javascript" id="villenoir_wc-js-extra">
-    /* <![CDATA[ */
-    var villenoir_wc_settings = {"is_cart":"","is_checkout":"","header_quick_cart":"1"};
-    /* ]]> */
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=5.4.1" id="wc-cart-fragments-js"></script>
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1" id="smartmenus-js"></script>
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.3.0" id="elementor-pro-webpack-runtime-js"></script>
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.6.1" id="elementor-webpack-runtime-js"></script>
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.6.1" id="elementor-frontend-modules-js"></script>
+<script type="text/javascript" id="elementor-pro-frontend-js-before">
+    var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/okthemes.com\/templatekits\/villenoir\/wp-admin\/admin-ajax.php","nonce":"592c08466d","urls":{"assets":"https:\/\/okthemes.com\/templatekits\/villenoir\/wp-content\/plugins\/elementor-pro\/assets\/"},"i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"menu_cart":{"cart_page_url":"https:\/\/okthemes.com\/templatekits\/villenoir\/cart\/","checkout_page_url":"https:\/\/okthemes.com\/templatekits\/villenoir\/checkout\/"},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/okthemes.com\/templatekits\/villenoir\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
 </script>
-<script type="text/javascript" src="https://okthemes.com/villenoirdark/wp-content/themes/villenoir/js/woocommerce.js?ver=5.8" id="villenoir_wc-js"></script>
-<script type="text/javascript" src="https://okthemes.com/villenoirdark/wp-includes/js/comment-reply.min.js?ver=5.8.3" id="comment-reply-js"></script>
-<script type="text/javascript" src="https://okthemes.com/villenoirdark/wp-content/themes/villenoir/js/pace.min.js?ver=5.8" id="pace-js"></script>
-<script type="text/javascript" src="https://okthemes.com/villenoirdark/wp-content/themes/villenoir/js/plugins.js?ver=5.8" id="villenoir-plugins-js"></script>
-<script type="text/javascript" src="https://okthemes.com/villenoirdark/wp-content/themes/villenoir/js/SmoothScroll.js?ver=5.8" id="villenoir-smoothscroll-js"></script>
-<script type="text/javascript" id="villenoir-cmfjs-js-extra">
-    /* <![CDATA[ */
-    var ajax_object_cmf = {"ajax_url":"https:\/\/okthemes.com\/villenoirdark\/wp-admin\/admin-ajax.php"};
-    /* ]]> */
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.3.0" id="elementor-pro-frontend-js"></script>
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" id="elementor-waypoints-js"></script>
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6" id="swiper-js"></script>
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.6.1" id="share-link-js"></script>
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.0" id="elementor-dialog-js"></script>
+<script type="text/javascript" id="elementor-frontend-js-before">
+    var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.6.1","is_static":false,"experimentalFeatures":{"e_import_export":true,"e_hidden_wordpress_widgets":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true,"form-submissions":true,"video-playlist":true},"urls":{"assets":"https:\/\/okthemes.com\/templatekits\/villenoir\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"body_background_background":"classic","global_image_lightbox":"yes","active_breakpoints":["viewport_mobile","viewport_tablet"],"lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":680,"title":"Villenoir%20Aged%20Merlot%20%E2%80%93%20Villenoir%20Template%20Kit","excerpt":"Served well-chilled our authentically made Cabernet Sauvignon is a refreshingly delicate dry wine with hints of strawberry, citrus, and peach laced fruit.","featuredImage":"https:\/\/okthemes.com\/templatekits\/villenoir\/wp-content\/uploads\/2016\/03\/Dark-blue-Merlot-w-cup-555x1024.png"}};
 </script>
-<script type="text/javascript" src="https://okthemes.com/villenoirdark/wp-content/themes/villenoir/js/forms/cmf.js?ver=5.8" id="villenoir-cmfjs-js"></script>
-<script type="text/javascript" id="villenoir-custom-js-extra">
-    /* <![CDATA[ */
-    var villenoir_custom_object = {"infinite_scroll_img":"https:\/\/okthemes.com\/villenoirdark\/wp-content\/themes\/villenoir\/images\/animated-ring.gif","infinite_scroll_msg_text":"Loading the next set of posts...","infinite_scroll_finished_msg_text":"All posts loaded."};
-    /* ]]> */
-</script>
-<script type="text/javascript" src="https://okthemes.com/villenoirdark/wp-content/themes/villenoir/js/custom.js?ver=5.8" id="villenoir-custom-js"></script>
-<script type="text/javascript" src="https://okthemes.com/villenoirdark/wp-includes/js/wp-embed.min.js?ver=5.8.3" id="wp-embed-js"></script>
-<script src="https://okthemes.com/villenoirdark/wp-content/plugins/the-events-calendar/common/src/resources/js/underscore-before.js"></script>
-<script type="text/javascript" src="https://okthemes.com/villenoirdark/wp-includes/js/underscore.min.js?ver=1.13.1" id="underscore-js"></script>
-<script src="https://okthemes.com/villenoirdark/wp-content/plugins/the-events-calendar/common/src/resources/js/underscore-after.js"></script>
-<script type="text/javascript" id="wp-util-js-extra">
-    /* <![CDATA[ */
-    var _wpUtilSettings = {"ajax":{"url":"\/villenoirdark\/wp-admin\/admin-ajax.php"}};
-    /* ]]> */
-</script>
-<script type="text/javascript" src="https://okthemes.com/villenoirdark/wp-includes/js/wp-util.min.js?ver=5.8.3" id="wp-util-js"></script>
-<script type="text/javascript" id="wc-add-to-cart-variation-js-extra">
-    /* <![CDATA[ */
-    var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/villenoirdark\/?wc-ajax=%%endpoint%%","i18n_no_matching_variations_text":"Sorry, no products matched your selection. Please choose a different combination.","i18n_make_a_selection_text":"Please select some product options before adding this product to your cart.","i18n_unavailable_text":"Sorry, this product is unavailable. Please choose a different combination."};
-    /* ]]> */
-</script>
-<script type="text/javascript" src="https://okthemes.com/villenoirdark/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=5.8.0" id="wc-add-to-cart-variation-js"></script>
-<script type="text/javascript" src="https://okthemes.com/villenoirdark/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.7.0" id="wpb_composer_front_js-js"></script>
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.6.1" id="elementor-frontend-js"></script><span id="elementor-device-mode" class="elementor-screen-only"></span>
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.min.js?ver=3.3.0" id="pro-preloaded-elements-handlers-js"></script>
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.6.1" id="preloaded-modules-js"></script><svg style="display: none;" class="e-font-icon-svg-symbols"></svg>
+<script type="text/javascript" src="https://okthemes.com/templatekits/villenoir/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.3.0" id="e-sticky-js"></script>
+
+
+
+
+<script src="{{  asset('js/appP.js')  }}"></script>
 
 @endsection

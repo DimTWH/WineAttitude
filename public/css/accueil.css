@@ -128,8 +128,8 @@ body {
     display: block;
     line-height: 39px;
     text-align: center;
-    color: #ffffff;
-    border: 1px solid #ffffff;
+    color: #555;
+    border: 1px solid #555;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -188,7 +188,7 @@ body {
     z-index: 99;
     top: 0;
     height: 100vh;
-    transition: 0.25s;
+    transition: 0.5s;
     left: 0;
     margin-left: -300px;
     padding: 50px 15px 30px;
@@ -334,7 +334,7 @@ ul {
     text-align: left;
     top: 100%;
     left: 0;
-    transition: all 0.25s ease-out;
+    transition: all 0.5s ease-out;
     overflow: hidden;
     border-radius: 3px;
     visibility: hidden;
@@ -574,7 +574,7 @@ ul {
     visibility: hidden;
     overflow: hidden;
     border: 1px solid #ebebeb;
-    transition: all 0.25s;
+    transition: all 0.5s;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -681,6 +681,12 @@ ul {
 img {
     max-width: 100%;
     height: auto;
+}
+
+@media screen and (max-width: 1200){
+    img {
+        max-width: 50%;
+    }
 }
 
 .cart_info a:hover {
@@ -1168,7 +1174,7 @@ h1, h2, h3, h4, h5, h6 {
     right: auto;
     visibility: hidden;
     overflow: hidden;
-    transition: 0.25s;
+    transition: 0.5s;
     z-index: 99;
     top: 100%;
     text-align: left;
@@ -1204,7 +1210,7 @@ h1, h2, h3, h4, h5, h6 {
     right: auto;
     visibility: hidden;
     overflow: hidden;
-    transition: 0.25s;
+    transition: 0.5s;
     z-index: 99;
     top: 100%;
     text-align: left;
@@ -1446,16 +1452,27 @@ body {
     transition: all 0.25s ease-in-out;
 }
 
-a {
-    color: #b0976d;
+.main-menu a {
+    color: #000;
     transition: all 0.25s ease-in-out;
 }
 
-a:hover, a:focus {
+nav a:hover {
     color: #d9932f;
     outline: none;
     outline-offset: 0px;
     text-decoration: none !important;
+}
+
+a {
+    color: #b0976d;
+}
+
+a:hover, a:focus, a span:hover, a:active {
+    color: #d9932f !important; 
+    outline: none;
+    outline-offset: 0px;
+    text-decoration: underline !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -1526,10 +1543,6 @@ h1, h2, h3, h4, h5, h6 {
 
 .img-fill {
     min-width: -webkit-fill-available;
-}
-
-.section-footer{
-    margin-top: 30px;
 }
 
 section {
@@ -1688,7 +1701,7 @@ section {
 .product-main {
     float: left;
     width: calc(100% - 2px);
-    transition: all 0.25s ease-in-out;
+    transition: all 0.45s ease-in-out;
     overflow: hidden;
 }
 
@@ -1705,7 +1718,7 @@ figure {
     width: 100%;
     height: 100%;
     opacity: 0;
-    transition: all 0.25s ease-in-out;
+    transition: all 0.45s ease-in-out;
 }
 
 .product-main figure.dark-theme::before {
@@ -1764,7 +1777,7 @@ figure img {
     right: -51px;
     color: #fff;
     opacity: 0;
-    transition: all 0.25s ease-in-out;
+    transition: all 0.45s ease-in-out;
 }
 
 .off_tag {
@@ -1795,7 +1808,7 @@ figure img {
     right: -51px;
     color: #fff;
     opacity: 0;
-    transition: all 0.25s ease-in-out;
+    transition: all 0.45s ease-in-out;
 }
 
 .off_tag1 {
@@ -1827,7 +1840,7 @@ figure img {
     right: -51px;
     color: #fff;
     opacity: 0;
-    transition: all 0.25s ease-in-out;
+    transition: all 0.45s ease-in-out;
 }
 
 .off_tag2 {
@@ -1883,18 +1896,18 @@ figure img {
 }
 
 .product-main:hover {
-    transition: all 0.25s ease-in-out;
+    transition: all 0.45s ease-in-out;
 }
 
 .product-main:hover figure::before {
     opacity: 0.4;
-    transition: all 0.25s ease-in-out;
+    transition: all 0.45s ease-in-out;
 }
 
 .product-main:hover figure .block-sticker-tag1, .product-main:hover figure .block-sticker-tag2, .product-main:hover figure .block-sticker-tag3 {
     opacity: 1;
     right: 0;
-    transition: all 0.25s ease-in-out;
+    transition: all 0.45s ease-in-out;
 }
 
 .block-sticker-tag1:hover strong, .block-sticker-tag2:hover strong, .block-sticker-tag3:hover strong {
@@ -2117,7 +2130,7 @@ figure img {
     border-radius: 0;
     background-color: #d9932f;
     color: #fff;
-    transition: ease 0.25s ease-in-out;
+    transition: ease 0.5s ease-in-out;
     padding: 8px 25px;
     /* font-size: 18px; */
     align-items: center;
@@ -2127,7 +2140,7 @@ figure img {
     border: 1px solid #d9932f;
     background-color: #fff;
     color: #d9932f;
-    transition: ease-in-out 0.25s ease-in-out;
+    transition: ease-in-out 0.5s ease-in-out;
 }
 
 .newsletter .btn-default i {

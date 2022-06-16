@@ -29,7 +29,7 @@
 
     <link rel="stylesheet" id="villenoir-woocommerce-css" href="{{  asset('css/gg-woocommerce.css')  }}" type="text/css" media="all">
     <link rel="stylesheet" id="bootstrap-css" href="{{  asset('css/woocommerce.css')  }}" type="text/css" media="all">
-    <link rel="stylesheet" id="font-awesome-css" href="https://okthemes.com/villenoirdark/wp-content/themes/villenoir/assets/font-awesome/css/font-awesome.min.css?ver=5.8" type="text/css" media="all">
+
     <link rel="stylesheet" id="pace-css" href="https://okthemes.com/villenoirdark/wp-content/themes/villenoir/styles/site-loader.css?ver=5.8" type="text/css" media="all">
     <link rel="stylesheet" id="isotope-css" href="https://okthemes.com/villenoirdark/wp-content/themes/villenoir/styles/isotope.css?ver=5.8" type="text/css" media="all">
     <link rel="stylesheet" id="magnific-popup-css" href="https://okthemes.com/villenoirdark/wp-content/themes/villenoir/styles/magnific-popup.css?ver=5.8" type="text/css" media="all">
@@ -46,7 +46,7 @@
             padding: 100px 0 100px 0;
         }
         html.gg-theme-style-dark {
-            
+
         }
     </style>
     <link rel="stylesheet" id="villenoir-child-style-css" href="https://okthemes.com/villenoirdark/wp-content/themes/villenoir/style.css?ver=5.8" type="text/css" media="all">
@@ -93,14 +93,14 @@
     <script type="text/javascript" src="https://okthemes.com/villenoirdark/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=6.7.0" id="vc_woocommerce-add-to-cart-js-js"></script>
     <script type="text/javascript" src="https://okthemes.com/villenoirdark/wp-content/themes/villenoir/js/primary-navigation.js?ver=5.8.3" id="villenoir-navigation-js"></script>
     <script type="text/javascript" src="https://okthemes.com/villenoirdark/wp-content/themes/villenoir/js/jquery.waypoints.min.js?ver=5.8.3" id="waypoints-js"></script>
-    
+
 <script type="text/javascript">
     window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/okthemes.com\/villenoirdark\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.3"}};
     !function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
 </script>
 <script src="https://okthemes.com/villenoirdark/wp-includes/js/wp-emoji-release.min.js?ver=5.8.3" type="text/javascript" defer=""></script>
 
-    
+
     <meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
     <meta name="generator" content="Powered by Slider Revolution 6.5.9 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
     <script type="text/javascript">function setREVStartSize(e){
@@ -166,7 +166,7 @@
     .vc_custom_1636232479231{padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;background-image: url(https://okthemes.com/villenoirdark/wp-content/uploads/2016/03/product-img-1-dark.jpg?id=2888) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}
     </style>
     <noscript>
-        <style> 
+        <style>
             .wpb_animate_when_almost_visible { opacity: 1; }
         </style>
     </noscript>
@@ -179,10 +179,9 @@
 
 <div class="site-wrapper">
 
-    <head>    
+    <head>
         <link rel="stylesheet" href="{{  asset('Accueil-jQuery/bootstrap.css')  }}">
-        <link rel="stylesheet" href="{{  asset('Accueil-jQuery/font-awesome.min.css')  }}">
-        <link rel="stylesheet" href="{{  asset('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css')  }}">
+
         <link rel="stylesheet" href="{{  asset('Accueil-jQuery/owl.carousel.min.css')  }}">
         <link rel="stylesheet" href="{{  asset('Accueil-jQuery/owl.theme.default.min.css')  }}">
         <link rel="stylesheet" href="{{  asset('css/accueil.css')  }}">
@@ -231,14 +230,16 @@
                                             <a href="{{  asset('pictures/cave/kara-gani/vin/ciotra-nobg.png')  }}">
                                                 <img src="{{  asset('pictures/cave/kara-gani/vin/ciotra-nobg.png')  }}" class="wp-post-image" alt="" loading="lazy" title="Gitana - Lupi"
                                                      data-caption="" data-src="{{  asset('pictures/cave/kara-gani/vin/ciotra-nobg.png')  }}"
-                                                     data-large_image="{{  asset('pictures/cave/gitana/vin/lupi-nobg3.png')  }}"
+                                                     data-large_image="{{  asset('pictures/cave/kara-gani/vin/ciotra-nobg.png')  }}"
                                                      data-large_image_width="1033" data-large_image_height="1335"
                                                      srcset="{{  asset('pictures/cave/kara-gani/vin/ciotra-nobg.png')  }} 840w,
                                                      {{  asset('pictures/cave/kara-gani/vin/ciotra-nobg.png')  }} 189w,
                                                      {{  asset('pictures/cave/kara-gani/vin/ciotra-nobg.png')  }} 644w,
                                                      {{  asset('pictures/cave/kara-gani/vin/ciotra-nobg.png')  }} 768w"
                                                      sizes="(max-width: 840px) 100vw, 840px" width="1033" height="1335">
-                                            </a>
+                                                     <img role="presentation" alt="" src="{{  asset('pictures/cave/kara-gani/vin/ciotra-nobg.png')  }}" id="zoom" style="position: absolute;
+                                                     top: -852.01px; left: -346.077px; opacity: 0; width: 1400px; height: 2585px; border: medium none; max-width: none; max-height: none;">
+                                             </a>
                                         </div>
                                     </figure>
                                 </div>
@@ -250,13 +251,13 @@
 
                                     <h1 class="product_title entry-title">Kara Gani Ciotra Feteasca Neagra</h1><div itemprop="description">
                                         <p>
-                                            Een wijn met zeer intense aroma's van sappig zwart fruit en bessen en tegelijkertijd kruiden. De smaak is medium tot vol, soepel en zijdeachtig, met perfect geïntegreerde tannines en edele eiken nuances. Zuivere maar rijke fruitigheid geeft de wijn een lange en gedenkwaardige afdronk.
+                                            Ciotra from KaraGani Winery is for adventurers who want to travel back in time to enjoy the splendor of a wine with well-preserved traditions of a Gagauzian community in southern Moldova. The unmistakable variety of Feteasca Neagra grapes is a purely local one preserved and cultivated for centuries throughout the Republic of Moldova.
                                         </p>
                                     </div>
                                     <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
 
                                         <p class="price">
-                                            <span class="price-text-prefix">From </span>
+                                            {{-- <span class="price-text-prefix">From </span> --}}
                                             <span class="woocommerce-Price-amount amount">
                                                 <bdi>19,90&nbsp;
                                                     <span class="woocommerce-Price-currencySymbol">
@@ -308,17 +309,17 @@
                                         {{-- <span class="sku_wrapper">SKU: <span class="sku">N/A</span></span> --}}
 
                                         <span class="posted_in">
-                                            Categorie:
+                                            Category:
                                             <a href="" rel="tag">
-                                                Rood wijn
+                                                Red Wine
                                             </a>{{--https://okthemes.com/villenoirdark/product-category/red-wines/--}}
                                         </span>
                                         <span class="tagged_as">
                                             Tags:
                                             <a href="#" rel="off_tag">
-                                                kara gani</a>,
+                                                KARA GANI</a>,
                                             <a href="#" rel="tag">
-                                                rood</a>
+                                                red</a>
                                         </span>
                                     </div>
 
@@ -326,7 +327,7 @@
                                     <table class="shop_attributes">
                                         <tbody><tr class="woocommerce-product-attributes-item">
                                             <th class="woocommerce-product-attributes-item__label">
-                                                Druivenras</th>
+                                                Grape</th>
                                             <td class="">
                                                 <p>Feteasca Neagra</p>
                                             </td>
@@ -349,7 +350,7 @@
                                             <th class="woocommerce-product-attributes-item__label">
                                                 Type</th>
                                             <td class="woocommerce-product-attributes-item__value">
-                                                <p>Rood, droog</p>
+                                                <p>Red, dry</p>
                                             </td>
                                         </tr>
                                         <tr class="woocommerce-product-attributes-item">
@@ -367,7 +368,7 @@
                                         </tr>
                                         <tr class="woocommerce-product-attributes-item">
                                             <th class="woocommerce-product-attributes-item__label">
-                                                Verpakking</th>
+                                                Packaging</th>
                                             <td class="">
                                                 <p>Fles, Box(x6)</p>
                                             </td>
@@ -393,8 +394,8 @@
                                 <div class="vc_column-inner vc_custom_1636230994456">
                                     <div class="wpb_wrapper">
                                         <div class="title-subtitle-box  " style=" text-align: left;">
-                                            <p style="">Wijninfo</p>
-                                            <h1 style=" font-style: normal;">Degustatie</h1>
+                                            <p style="">Wine Info</p>
+                                            <h1 style=" font-style: normal;">Degustation</h1>
                                         </div>
                                         <div class="wpb_text_column wpb_content_element  vc_custom_1460727890422">
                                             <div class="wpb_wrapper">
@@ -431,8 +432,8 @@
                                 <div class="vc_column-inner vc_custom_1636231018665">
                                     <div class="wpb_wrapper">
                                         <div class="title-subtitle-box  " style=" text-align: left;">
-                                            <p style="">Wijninfo</p>
-                                            <h1 style=" font-style: normal;">Vinificatie</h1>
+                                            <p style="">Wine Info</p>
+                                            <h1 style=" font-style: normal;">Winemaking</h1>
                                         </div>
                                         <div class="wpb_text_column wpb_content_element ">
                                             <div class="wpb_wrapper">
@@ -451,8 +452,8 @@
                                 <div class="vc_column-inner vc_custom_1636231052207">
                                     <div class="wpb_wrapper">
                                         <div class="title-subtitle-box  " style=" text-align: left;">
-                                            <p style="">Wijninfo</p>
-                                            <h1 style=" font-style: normal;">Culinair advies</h1>
+                                            <p style="">Wine Info</p>
+                                            <h1 style=" font-style: normal;">Culinar advice</h1>
                                         </div>
                                         <div class="wpb_text_column wpb_content_element ">
                                             <div class="wpb_wrapper">
@@ -539,11 +540,11 @@
                                                 Villenoir Cabernet Sauvignon
                                             </h2>
                                             <div class="gg-product-image-wrapper">
-                                                <img src="#" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" 
-                                                srcset="https://okthemes.com/villenoirdark/wp-content/uploads/2016/03/Red-Cabernet-Sauvignon-w-cup-v2-dark-1.png 840w, 
-                                                https://okthemes.com/villenoirdark/wp-content/uploads/2016/03/Red-Cabernet-Sauvignon-w-cup-v2-dark-1-189x300.png 189w, 
-                                                https://okthemes.com/villenoirdark/wp-content/uploads/2016/03/Red-Cabernet-Sauvignon-w-cup-v2-dark-1-644x1024.png 644w, 
-                                                https://okthemes.com/villenoirdark/wp-content/uploads/2016/03/Red-Cabernet-Sauvignon-w-cup-v2-dark-1-768x1221.png 768w" 
+                                                <img src="#" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy"
+                                                srcset="https://okthemes.com/villenoirdark/wp-content/uploads/2016/03/Red-Cabernet-Sauvignon-w-cup-v2-dark-1.png 840w,
+                                                https://okthemes.com/villenoirdark/wp-content/uploads/2016/03/Red-Cabernet-Sauvignon-w-cup-v2-dark-1-189x300.png 189w,
+                                                https://okthemes.com/villenoirdark/wp-content/uploads/2016/03/Red-Cabernet-Sauvignon-w-cup-v2-dark-1-644x1024.png 644w,
+                                                https://okthemes.com/villenoirdark/wp-content/uploads/2016/03/Red-Cabernet-Sauvignon-w-cup-v2-dark-1-768x1221.png 768w"
                                                 sizes="(max-width: 840px) 100vw, 840px" width="840" height="1335">
                                             </div>
                                         </a>
@@ -681,5 +682,10 @@
 </script>
 <script type="text/javascript" src="https://okthemes.com/villenoirdark/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=5.8.0" id="wc-add-to-cart-variation-js"></script>
 <script type="text/javascript" src="https://okthemes.com/villenoirdark/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.7.0" id="wpb_composer_front_js-js"></script>
+
+
+
+
+<script src="{{  asset('js/appP.js')  }}"></script>
 
 @endsection

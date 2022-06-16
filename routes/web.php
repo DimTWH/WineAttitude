@@ -36,3 +36,6 @@ Route::get('/Kara-Gani-Ciotra', function () {
 Route::get('/Selection-Feteasca-Regala', function () {
     return view('vin/selection-feteasca-regala');
 })->name('selection-feteasca-regala');
+Route::get('/Asconi-Sol-Negru', function () {
+    return view('vin/sol-negru');
+})->name('asconi-sol-negru');
