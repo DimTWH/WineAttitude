@@ -22,7 +22,7 @@
                     data-effect="left(short)" data-duration="3500" data-delay="350" data-ease="easeOutExpo">
                     Attitude
                 </h1>
-                <a href="#products" class="ms-layer"
+                <a id="shopnow" class="ms-layer"
                    style="left: 20px; top: 424px; color: #fff; font-weight: 400; letter-spacing: 0.5px; margin: 0px ; padding: 0px; font-size: 14px; line-height: 20px; border: 1px solid #fff; padding: 10px 20px; text-shadow: 2px 2px 5px #000;"
                    data-effect="left(short)" data-duration="3500" data-delay="300" data-ease="easeOutExpo">SHOP
                     NOW</a>
@@ -43,10 +43,10 @@
                     data-effect="left(short)" data-duration="3500" data-delay="350" data-ease="easeOutExpo">
                     Attitude
                 </h1>
-                <a href="#products" class="ms-layer"
+                <button id="shopnow" class="ms-layer"
                    style="left: 20px; top: 434px; color: #fff; font-weight: 400; letter-spacing: 0.5px; margin: 0px ; padding: 0px; font-size: 14px; line-height: 20px; border: 1px solid #fff; padding: 10px 20px; text-shadow: 2px 0px 3px #000;"
                    data-effect="left(short)" data-duration="3500" data-delay="300" data-ease="easeOutExpo">SHOP
-                    NOW</a>
+                    NOW</button>
             </div>
         </div>
     </div>
@@ -365,10 +365,57 @@
     </div>
 </section>--}}
 
+<script>
+
+const duration = 800;
+
+const scrollToTarget = function (target) {
+    const top = target.getBoundingClientRect().top;
+    const startPos = window.pageYOffset;
+    const diff = top;
+
+    let startTime = null;
+    let requestId;
+
+    const loop = function (currentTime) {
+        if (!startTime) {
+            startTime = currentTime;
+        }
+
+        // Elapsed time in miliseconds
+        const time = currentTime - startTime;
+
+        const percent = Math.min(time / duration, 1);
+        window.scrollTo(0, startPos + diff * percent);
+
+        if (time < duration) {
+            // Continue moving
+            requestId = window.requestAnimationFrame(loop);
+        } else {
+            window.cancelAnimationFrame(requestId);
+        }
+    };
+    requestId = window.requestAnimationFrame(loop);
+};
+
+$('#shopnow').on('click', function() {
+    // Prevent the default action
+    e.preventDefault();
+
+    // Get the `href` attribute
+    const href = e.target.getAttribute('href');
+    const id = href.substr(1);
+    const target = document.getElementById(id);
+
+
+    scrolltotarget("#products")
+});
+
+</script>
 <script src="{{  asset('Accueil-jQuery/jquery.min.js')  }}"></script>
 <script src="{{  asset('Accueil-jQuery/jquery.easing.min.js')  }}"></script>
 <script src="{{  asset('Accueil-jQuery/bootstrap.min.js')  }}"></script>
 <script src="{{  asset('Accueil-jQuery/masterslider.min.js')  }}"></script>
 <script src="{{  asset('Accueil-jQuery/owl.carousel.min.js')  }}"></script>
-
+{{-- <script src="{{  asset('js/accueil.js')  }}"></script> --}}
 @endsection
